@@ -1,4 +1,2 @@
 # Employee-Database
-mock database
-
-entries are organized using a hashtable
+Mock data GUI: entries are organized using a hashtable
